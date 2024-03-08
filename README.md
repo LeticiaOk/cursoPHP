@@ -15,5 +15,5 @@ Este repositório contém materiais do meu curso de PHP, incluindo exercícios p
 ## Contribuições:
 Contribuições são bem-vindas! Sinta-se à vontade para enviar novos exercícios, corrigir erros nas anotações ou melhorar o conteúdo existente.
 
-## Licença:
+## Plataforma de Ensino:
 Este projeto é um oferecimento de [Curso em VídeoT](https://www.cursoemvideo.com).
